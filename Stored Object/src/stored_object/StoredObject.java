@@ -11,6 +11,7 @@ public class StoredObject
   {
 		String theList = o.getClass().getTypeName().toString();
 		System.out.println(theList);
+		
   }
 	
 	
